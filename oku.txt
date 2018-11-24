@@ -1,0 +1,6 @@
+Python3 sürümüyle geliþtirilmiþtir.
+Program kapatýlýnca eklenen verilerde silinir.Geliþtirilmeye açýk ilk sürümdür.
+
+LUCKY WÝKÝ SOFTWARE TEAM
+
+HTTPS://LUCKYWÝKÝ.ORG
